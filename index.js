@@ -25,7 +25,7 @@ xhr.open('GET', './index.json'); // 메소드와 주소 설정
 xhr.send(); // 요청 전송 
 // xhr.abort(); // 전송된 요청 취소
 
-/*##1버튼클릭해서 온습도 표시하기*/
+/*##1버튼클릭해서 온습도 표시하기 미완*/
 window.document.body.onclick = function () {
     try {
         var tmp = 0;
