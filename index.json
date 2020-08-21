@@ -1,0 +1,32 @@
+[
+    {
+        "temp": 19,
+        "humi": 50,
+        "space": "a",
+        "number": "001",
+        "mintemp": 5,
+        "minhumi": 20,
+        "maxtemp": 30,
+        "maxhumi": 100
+    },
+    {
+        "temp": 20,
+        "humi": 40,
+        "space": "a",
+        "number": "002",
+        "mintemp": 70,
+        "minhumi": 80,
+        "maxtemp": 30,
+        "maxhumi": 100
+    },
+    {
+        "temp": 21,
+        "humi": 50,
+        "space": "kitchen",
+        "number": "003",
+        "mintemp": 0,
+        "minhumi": 20,
+        "maxtemp": 30,
+        "maxhumi": 100
+    }
+]
